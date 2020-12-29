@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544545735 source:c:\users\igor capeletti\desktop\projetosc\redesocial_trabalho\main.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<deque>
+	<stack>
+	<climits>
+	<string.h>
+	<stdbool.h>
+
