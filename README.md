@@ -7,5 +7,3 @@ Universidade Federal do Pampa - UNIPAMPA
 Disciplina: ESTRUTURA DE DADOS II
 
 Professor: MARCELO CAGGIANI LUIZELLI
-
-Autoria própria.
